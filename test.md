@@ -15,7 +15,9 @@
 
 # Overview
 
-Jenkins deployment example with Docker Compose.
+The Jupyter Notebook is the original web application for creating and sharing computational documents that enables users
+to author notebook documents that include: Live code, Interactive widgets, Plots, Narrative text, Equations, Images,
+Video.
 
 # Get Started
 
@@ -54,6 +56,8 @@ Jenkins deployment example with Docker Compose.
 ```bash
 jupyter notebook --no-browser
 ```
+
+
 
 # Examples
 
