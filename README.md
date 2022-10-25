@@ -11,6 +11,10 @@
     * [Installation](#installation)
     * [Start jupyter](#start-jupyter)
 * [Examples](#examples)
+* [Additionals](#additionals)
+  * [Change Jupyter theme](#change-jupyter-theme)
+    * [Get available themes](#get-available-themes)
+    * [Install theme](#install-theme)
 * [License](#license)
 
 # Overview
@@ -57,11 +61,29 @@ Video.
 jupyter notebook --no-browser
 ```
 
-
+![Example part 1](documentation/images/example_part1.png)
+![Example part 2](documentation/images/example_part2.png)
 
 # Examples
 
 - [examples/widget_width](examples/widget_width): example to calculate widget width from an image using Pillow and Numpy.
+- [examples/python_exercises.ipynb](examples/python_exercises.ipynb): basic python exercises.
+
+# Additionals
+
+## Change Jupyter theme
+
+### Get available themes
+
+```bash
+jt -l
+```
+
+### Install theme
+
+```bash
+jt -t <THEME>
+```
 
 # License
 
