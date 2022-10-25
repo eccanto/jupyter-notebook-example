@@ -57,7 +57,8 @@ Video.
 jupyter notebook --no-browser
 ```
 
-
+![Example part 1](documentation/images/example_part1.png)
+![Example part 2](documentation/images/example_part2.png)
 
 # Examples
 
